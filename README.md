@@ -4,7 +4,7 @@
 The [inference.ipynb](https://colab.research.google.com/drive/1Mni7VdotHETDFupKyUomC5I4f_2Dheoq?usp=sharing) show the instructions that can reproduce inference time and generate answer.json in **Colab**.
 In the inference.ipynb, you will install the required dependencies like **TF-object-detection-API**. Please follow the instructions in inference.ipynb.
 
-![](https://i.imgur.com/YRqgdAN.png)
+![](https://i.imgur.com/4r2XT6w.png)
 
 
 ## 2. Training code
