@@ -3,8 +3,8 @@ exported-models/
 output_image/
 pre-trained-models/
 test/
-training_configs/
 .ipynb_checkpoints
 script.ipynb
 script_colab.ipynb
 models
+

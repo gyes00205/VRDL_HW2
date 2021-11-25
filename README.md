@@ -68,3 +68,8 @@ You can follow the [inference.ipynb](https://colab.research.google.com/drive/1Mn
 --min_score_thresh=0.0 \
 --label_map=data/label_map.pbtxt
 ```
+
+## Reference
+1. [TF-object-detection-API](https://github.com/tensorflow/models)
+2. [mmdetection](https://mmdetection.readthedocs.io/en/v2.18.1/2_new_data_model.html)
+3. [Access SVHN data in Python](https://www.vitaarca.net/post/tech/access_svhn_data_in_python/)
